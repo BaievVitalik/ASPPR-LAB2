@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="SimplexMJE_Modular.Classes.Static.LinearInequalitySolver">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>yAQAAAAAACgAAAAAAAACAABJAAAAAAAAAAIAAAADQAA=</HashCode>
+      <FileName>Classes\Static\LinearInequalitySolver.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SimplexMJE_Modular.ComputationReport" BaseTypeListCollapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAACAAAAAAAAAAAABAAAAAAAAABAQAoAEA=</HashCode>
+      <FileName>Classes\ComputationReport.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="SimplexMJE_Modular.ComputationReportItem">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAEAAACAAAAAAAAAAAAAAAAAAAABAAAA=</HashCode>
+      <FileName>Classes\ComputationReportItem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SimplexMJE_Modular.GoalFunction">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAEAAAACAAQAAAEAAAAA=</HashCode>
+      <FileName>Classes\GoalFunction.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SimplexMJE_Modular.Inequality">
+    <Position X="9.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAABAEAAAAAAAAAEAAAAiQAEAAAEAAAAA=</HashCode>
+      <FileName>Classes\Inequality.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SimplexMJE_Modular.InequalitySystem">
+    <Position X="0.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAACAAAAAAAAQEABAEAAAEAAAAA=</HashCode>
+      <FileName>Classes\InequalitySystem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SimplexMJE_Modular.InequalitySystemSolution">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAREAAAAAAAAAAEAQIAQAAEAAAAABAAAAAgAAABAAE=</HashCode>
+      <FileName>Classes\InequalitySystemSolution.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SimplexMJE_Modular.Matrix">
+    <Position X="11" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>oAABQEACBQAAAEQEKAAAhAEgAAgIQAABkAAAUAIAAgA=</HashCode>
+      <FileName>Classes\Matrix.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SimplexMJE_Modular.InputHandler">
+    <Position X="9.25" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgAAAAAAAAAQAAAAACAAAAAAAAIAAAAAAAA=</HashCode>
+      <FileName>InputHandler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SimplexMJE_Modular.Program">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SimplexMJE_Modular.ReportPrinter">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAEAAAAAAEIAA=</HashCode>
+      <FileName>ReportPrinter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="SimplexMJE_Modular.IComputationReportCompiler">
+    <Position X="0.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAQAoAEA=</HashCode>
+      <FileName>Classes\IComputationReportCompiler.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="SimplexMJE_Modular.GoalFunctionType">
+    <Position X="2.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAgA=</HashCode>
+      <FileName>Enums\GoalFunctionType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="SimplexMJE_Modular.Sign">
+    <Position X="4" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAgAAAQAAQAAAAAEAAAAAAAAEAAAE=</HashCode>
+      <FileName>Enums\Sign.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
